@@ -19,3 +19,12 @@ development:
   hot_reload: false
   debug_mode: false
   mock_apis: false
+
+# --- Experimental Features (from conflict-simulator) ---
+# --- NOT FOR PRODUCTION USE ---
+# experimental:
+#   name: DevOpsSimulator-EXP
+#   version: 3.0.0-alpha
+#   port: 9999
+#   ai_assistant: true
+#   quantum_encryption: true
